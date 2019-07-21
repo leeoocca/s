@@ -21,9 +21,9 @@ section {
 }
 
 h1 {
-        text-size: 5vw;
+        font-size: 3vw;
         text-align: center;
-        letter-spacing: 1em;
+        letter-spacing: 5vw;
         font-family: 'Lato', sans-serif;
         font-weight: 100
 }
